@@ -1,5 +1,5 @@
 Changes
-lib/HTML/Widgets/DateEntry.pm
+lib/Number/Phone/US.pm
 MANIFEST
 Makefile.PL
-t/widget.t
+t/number.t
